@@ -7,10 +7,21 @@
 
 <div>
   <a href='https://github.com/PedroHenriqueMA'>
-  <img height='200' src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMA&show_icons=true&hide=contribs&include_all_commits=true&show=reviews,prs_merged&theme=catppuccin_mocha" />
-
-  <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMA&layout=donut&theme=catppuccin_mocha' />
-
+    <img height='200' src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMA&show_icons=true&hide=contribs&include_all_commits=true&show=reviews,prs_merged&theme=catppuccin_mocha" />
+    <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMA&layout=donut&theme=catppuccin_mocha' />
+  <a/>
+</div>
+<div style='display:inline-block' >
+  <img style='width:48px' src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'/>
+  <img style='width:48px' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'/>
+  <img style='width:48px' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'/>
+  <img style='width:48px' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'/>
+  <img style='width:48px' src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg'/>
+  <img style='width:48px' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'/>
+  <img style='width:48px' src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg'/>
+  
+  
+  <img style='width:48px' src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg'/>
 </div>
 
 ##
