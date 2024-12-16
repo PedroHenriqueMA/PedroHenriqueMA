@@ -7,7 +7,7 @@
 
 <div>
   <a href='https://github.com/PedroHenriqueMA'>
-    <img height='200' src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMA&show_icons=true&hide=contribs&include_all_commits=true&show=reviews,prs_merged&theme=catppuccin_mocha" />
+    <img height='200' src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueMA&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=catppuccin_mocha" />
     <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueMA&layout=donut&theme=catppuccin_mocha' />
   <a/>
 </div>
